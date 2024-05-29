@@ -43,3 +43,6 @@ venv/
 
 # Set Env
 set_env.sh 
+
+# Secrets
+*secret.yaml
