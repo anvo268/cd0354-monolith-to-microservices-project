@@ -89,3 +89,4 @@ Launch the frontend app locally.
 * Dummy change to trigger Travis CI build
 * Dummy change again
 * Dummy change 3
+* Dummy change 4
