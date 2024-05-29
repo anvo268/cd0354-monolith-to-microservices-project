@@ -16,6 +16,7 @@ spec:
     spec:
       containers:
       - name: udagram-frontend
-        image: avoorhees2534/udagram-frontend
+        image: avoorhees2534/udagram-frontend:v3
+        imagePullPolicy: Always
         ports:
         - containerPort: 80
